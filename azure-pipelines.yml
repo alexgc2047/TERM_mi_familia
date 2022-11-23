@@ -25,4 +25,4 @@ stages:
         containerRegistry: 'Docker Hub ALGC'
         repository: 'algc/term_mi_familia'
         command: 'buildAndPush'
-        Dockerfile: 'dockerfile'
+        Dockerfile: 'TERM_mi_familia/dockerfile'
